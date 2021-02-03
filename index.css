@@ -25,6 +25,7 @@ h1{
     font-family: 'Potta One', cursive
 }
 textarea{
+    font-size: larger;
     background-color: #444;
     color: white;
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
